@@ -19,7 +19,7 @@ ext {
             dagger_compiler       : "com.google.dagger:dagger-compiler:$daggerVersion",
             /* Shared library-sample apps dependencies */
             annotations           : "androidx.annotation:annotation:1.1.0",
-            robolectric           : 'org.robolectric:robolectric:3.8',
+            robolectric           : 'org.robolectric:robolectric:4.5.1',
             /* Sample apps-only dependencies */
             rxjava_replayingshare : 'com.jakewharton.rx2:replaying-share:2.2.0',
             rxjava_binding        : 'com.jakewharton.rxbinding3:rxbinding:3.1.0',
