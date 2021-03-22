@@ -13,7 +13,7 @@ ext {
             groovy                : 'org.codehaus.groovy:groovy:2.5.8',
             spock                 : ['org.spockframework:spock-core:1.2-groovy-2.5',
                                      'cglib:cglib-nodep:3.3.0',
-                                     'org.objenesis:objenesis:2.6'],
+                                     'org.objenesis:objenesis:3.2'],
             electricspock         : 'com.github.hkhc:electricspock:0.9',
             dagger                : "com.google.dagger:dagger:$daggerVersion",
             dagger_compiler       : "com.google.dagger:dagger-compiler:$daggerVersion",
